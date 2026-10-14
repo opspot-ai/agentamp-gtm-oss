@@ -1,0 +1,8 @@
+{
+  "demoOrg": "synthetic-demo-org",
+  "gatewayPackage": "UNCONFIGURED_GATEWAY_PACKAGE",
+  "mode": "unconfigured",
+  "name": "unconfigured-example-engine",
+  "pinnedCommit": "UNSET",
+  "root": "__UNCONFIGURED_ENGINE__"
+}

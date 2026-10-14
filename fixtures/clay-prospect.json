@@ -1,0 +1,19 @@
+{
+  "agencyName": "Synthetic Agency",
+  "email": "demo@example.invalid",
+  "emailVerified": true,
+  "eventId": "synthetic-event-0001",
+  "evidenceUrl": "https://example.invalid/evidence/synthetic",
+  "exampleBrand": "Synthetic Brand",
+  "firstName": "Synthetic",
+  "fitScore": 100,
+  "lastName": "Contact",
+  "linkedinUrl": "https://example.invalid/profile/synthetic",
+  "observation": "Synthetic observation for privacy review only.",
+  "proofSummary": "Synthetic proof text; no real evidence or customer data.",
+  "signals": [
+    "synthetic-agency"
+  ],
+  "title": "Synthetic role",
+  "website": "https://agency.example.invalid"
+}

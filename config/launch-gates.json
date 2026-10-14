@@ -1,0 +1,18 @@
+{
+  "checkedAt": "UNVERIFIED",
+  "checks": {
+    "calendlyApi": "unconfigured-placeholder",
+    "clayWorkspace": "unconfigured-placeholder",
+    "outboundDkim": "unconfigured-placeholder",
+    "outboundDmarc": "unconfigured-placeholder",
+    "outboundMx": "unconfigured-placeholder",
+    "outboundSpf": "unconfigured-placeholder",
+    "publicHttpsIngress": "unconfigured-placeholder",
+    "smartleadApi": "unconfigured-placeholder",
+    "smartleadCampaign": "unconfigured-placeholder",
+    "smartleadMailboxes": "unconfigured-placeholder"
+  },
+  "decision": "unconfigured-placeholder",
+  "launchReady": false,
+  "status": "unverified"
+}

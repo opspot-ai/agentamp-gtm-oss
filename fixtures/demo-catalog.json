@@ -1,0 +1,70 @@
+[
+  {
+    "brand": "Synthetic Brand",
+    "category": "Synthetic Category",
+    "costCents": 550,
+    "description": "Synthetic catalog fixture for software review only. No real product or merchant data.",
+    "externalId": "synthetic-product-001",
+    "imageUrl": "https://example.invalid/product-001.png",
+    "inventoryQty": 5,
+    "priceCents": 1100,
+    "sku": "SYN-DEMO-001",
+    "tags": [
+      "synthetic",
+      "demo",
+      "placeholder"
+    ],
+    "title": "Synthetic Demo Product 001"
+  },
+  {
+    "brand": "Synthetic Brand",
+    "category": "Synthetic Category",
+    "costCents": 600,
+    "description": "Synthetic catalog fixture for software review only. No real product or merchant data.",
+    "externalId": "synthetic-product-002",
+    "imageUrl": "https://example.invalid/product-002.png",
+    "inventoryQty": 5,
+    "priceCents": 1200,
+    "sku": "SYN-DEMO-002",
+    "tags": [
+      "synthetic",
+      "demo",
+      "placeholder"
+    ],
+    "title": "Synthetic Demo Product 002"
+  },
+  {
+    "brand": "Synthetic Brand",
+    "category": "Synthetic Category",
+    "costCents": 650,
+    "description": "Synthetic catalog fixture for software review only. No real product or merchant data.",
+    "externalId": "synthetic-product-003",
+    "imageUrl": "https://example.invalid/product-003.png",
+    "inventoryQty": 5,
+    "priceCents": 1300,
+    "sku": "SYN-DEMO-003",
+    "tags": [
+      "synthetic",
+      "demo",
+      "placeholder"
+    ],
+    "title": "Synthetic Demo Product 003"
+  },
+  {
+    "brand": "Synthetic Brand",
+    "category": "Synthetic Category",
+    "costCents": 700,
+    "description": "Synthetic catalog fixture for software review only. No real product or merchant data.",
+    "externalId": "synthetic-product-004",
+    "imageUrl": "https://example.invalid/product-004.png",
+    "inventoryQty": 5,
+    "priceCents": 1400,
+    "sku": "SYN-DEMO-004",
+    "tags": [
+      "synthetic",
+      "demo",
+      "placeholder"
+    ],
+    "title": "Synthetic Demo Product 004"
+  }
+]

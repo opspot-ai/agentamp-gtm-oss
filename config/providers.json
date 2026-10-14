@@ -1,0 +1,21 @@
+{
+  "calendly": {
+    "bookingUrl": "https://example.invalid/booking"
+  },
+  "clay": {
+    "minimumFitScore": 100,
+    "mode": "unconfigured-placeholder"
+  },
+  "smartlead": {
+    "baseUrl": "https://example.invalid/api",
+    "campaignId": 0,
+    "campaignName": "UNCONFIGURED_PLACEHOLDER",
+    "days": [],
+    "endHour": "00:00",
+    "initialMaxLeadsPerDay": 0,
+    "minTimeBetweenEmailsMinutes": 0,
+    "sendDomain": "example.invalid",
+    "startHour": "00:00",
+    "timezone": "Etc/UTC"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "acceptedSignals": [
+    "SYNTHETIC_PLACEHOLDER"
+  ],
+  "minimumFitScore": 100,
+  "name": "synthetic-placeholder-profile",
+  "preferredTitles": [
+    "SYNTHETIC_PLACEHOLDER"
+  ],
+  "requireAgencySignal": true,
+  "requireEvidenceUrl": true,
+  "requireVerifiedEmail": true
+}

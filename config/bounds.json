@@ -1,0 +1,13 @@
+{
+  "hardDailySendsPerMailbox": 0,
+  "hardWeeklySendsProductWide": 0,
+  "initialDailySendsPerMailbox": 0,
+  "maxAttempts": 0,
+  "secondRampDailySendsPerMailbox": 0,
+  "sendWindow": {
+    "endHour": 0,
+    "startHour": 0,
+    "timezone": "Etc/UTC",
+    "weekdays": []
+  }
+}

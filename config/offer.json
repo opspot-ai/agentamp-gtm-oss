@@ -1,0 +1,15 @@
+{
+  "freeAgencies": 0,
+  "freeDays": 0,
+  "freeStoresPerAgency": 0,
+  "marginFloorBps": 0,
+  "maxClosingCallsPerWeek": 0,
+  "maxPersonasPerSimulation": 0,
+  "maxProductsPerFreeAudit": 0,
+  "monthlyPerStoreCents": 0,
+  "program": "UNCONFIGURED_PLACEHOLDER",
+  "setupCents": 0,
+  "suggestedRetailMonthlyMaxCents": 0,
+  "suggestedRetailMonthlyMinCents": 0,
+  "suggestedRetailSetupCents": 0
+}
